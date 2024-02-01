@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/e-commerce-active-fit/static/css/main.cbe91399.css",
-    "main.js": "/e-commerce-active-fit/static/js/main.35992cac.js",
-    "static/js/787.866a9283.chunk.js": "/e-commerce-active-fit/static/js/787.866a9283.chunk.js",
-    "static/media/slide3.png": "/e-commerce-active-fit/static/media/slide3.4ce417f7829ad32f3c69.png",
-    "static/media/slide1.png": "/e-commerce-active-fit/static/media/slide1.a08e2e4524b2e39c5f24.png",
-    "static/media/slide4.png": "/e-commerce-active-fit/static/media/slide4.cedd6776842ec9b4af01.png",
-    "static/media/slide2.png": "/e-commerce-active-fit/static/media/slide2.241dd0614f6dc5f89295.png",
-    "static/media/revicons.eot": "/e-commerce-active-fit/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/e-commerce-active-fit/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/Training.png": "/e-commerce-active-fit/static/media/Training.8116b338d23da23692d8.png",
-    "static/media/revicons.woff": "/e-commerce-active-fit/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/e-commerce-active-fit/index.html",
-    "main.cbe91399.css.map": "/e-commerce-active-fit/static/css/main.cbe91399.css.map",
-    "main.35992cac.js.map": "/e-commerce-active-fit/static/js/main.35992cac.js.map",
-    "787.866a9283.chunk.js.map": "/e-commerce-active-fit/static/js/787.866a9283.chunk.js.map"
+    "main.css": "/E-commerce-Active-Fit/static/css/main.677232d5.css",
+    "main.js": "/E-commerce-Active-Fit/static/js/main.32e88dcf.js",
+    "static/js/787.866a9283.chunk.js": "/E-commerce-Active-Fit/static/js/787.866a9283.chunk.js",
+    "static/media/slide3.png": "/E-commerce-Active-Fit/static/media/slide3.4ce417f7829ad32f3c69.png",
+    "static/media/slide1.png": "/E-commerce-Active-Fit/static/media/slide1.a08e2e4524b2e39c5f24.png",
+    "static/media/slide4.png": "/E-commerce-Active-Fit/static/media/slide4.cedd6776842ec9b4af01.png",
+    "static/media/slide2.png": "/E-commerce-Active-Fit/static/media/slide2.241dd0614f6dc5f89295.png",
+    "static/media/revicons.eot": "/E-commerce-Active-Fit/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/E-commerce-Active-Fit/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/Training.png": "/E-commerce-Active-Fit/static/media/Training.8116b338d23da23692d8.png",
+    "static/media/revicons.woff": "/E-commerce-Active-Fit/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/E-commerce-Active-Fit/index.html",
+    "main.677232d5.css.map": "/E-commerce-Active-Fit/static/css/main.677232d5.css.map",
+    "main.32e88dcf.js.map": "/E-commerce-Active-Fit/static/js/main.32e88dcf.js.map",
+    "787.866a9283.chunk.js.map": "/E-commerce-Active-Fit/static/js/787.866a9283.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cbe91399.css",
-    "static/js/main.35992cac.js"
+    "static/css/main.677232d5.css",
+    "static/js/main.32e88dcf.js"
   ]
 }
